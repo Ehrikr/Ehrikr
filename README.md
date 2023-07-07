@@ -1,7 +1,11 @@
 ### Oi! Eu sou o Eric!
 
 - 💼 Trabalho de Frontend, Backend e Fullstack
-- 📚 Estou estudando Python no momento 
+- 📚 Estou estudando Python no momento
+- 👨‍💻 Também trabalho com design fazendo artes e edições
+- 😁 Gosto de games, sei desenhar e programar kkkkkkk
+
+
 <div>
   <a href="https://github.com/ehrikr">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ehrikr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
